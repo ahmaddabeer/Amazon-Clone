@@ -10,13 +10,35 @@
   <p>This is a simple clone of the Amazon website built using HTML, CSS, and JavaScript. The website mimics the layout and functionality of Amazon, including a navigation bar, search bar, product sections, and footer. This project is designed to practice front-end development skills.</p>
 
   <h2>Project Image</h2>
-  <img src="https://github.com/user-attachments/assets/c3c7825d-1e3d-432c-8731-ee3a0f0919c4" alt="Amazon Clone Image" width="600" />
+ 
+  ![Screenshot 2025-02-09 173931](https://github.com/user-attachments/assets/017e8ebc-6559-44a7-85a4-d75272b00e72)
+  <br><hr><br>
+![Screenshot 2025-02-09 173914](https://github.com/user-attachments/assets/ed805d9f-f1d4-4849-81df-b31a0ed1ba39)
+<br><hr><br>
+![Screenshot 2025-02-09 173856](https://github.com/user-attachments/assets/1a14110d-d001-4e4f-80f9-185004eddf94)
+
+
+
+
+
 
   <h2>Project Video</h2>
   
     
 
-https://github.com/user-attachments/assets/67be52bc-ffc4-4bfe-ba3e-6a379226139f
+https://github.com/user-attachments/assets/3b83dd56-06b3-445b-bb58-e73aa24a90d9
+<h2>Project Video</h2>
+
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/3b83dd56-06b3-445b-bb58-e73aa24a90d9" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
+
 
 
 
